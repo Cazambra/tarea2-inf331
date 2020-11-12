@@ -6,7 +6,7 @@ Se utilizó python 3.8.6 y boto3
 
 # Instalación dependencias
 
-``` pip install boto3 ```
+``` pip install boto3 ==1.14.9 ```
 
 # Uso
 Para correr el programa usar 
