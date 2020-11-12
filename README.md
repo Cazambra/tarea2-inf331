@@ -1,4 +1,4 @@
-# tarea2-inf331
+# tarea3-inf331
 En esta tarea se utilizará AWS Rekognition en conjunto con S3 (buckets) para comparar si dos imagenes tienen el mismo texto.
 
 # Dependencias
