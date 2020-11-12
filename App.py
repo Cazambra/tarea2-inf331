@@ -58,7 +58,7 @@ if __name__ == "__main__":
         res = "Reconocimiento poco confiable de "+ photo + ", no puede proceder"
         print ("Reconocimiento poco confiable de",photo, ", no puede proceder")
     else:
-        control = Rekon(photo2)
+        control = Rekon(photo2,creds)
         res = res.strip().split()
         control = control.strip().split()
         flag = True
